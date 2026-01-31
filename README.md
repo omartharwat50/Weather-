@@ -30,18 +30,6 @@ JavaScript
 
 Free Weather API
 
-🚀 How to Run the Project
-
-1️⃣ Clone the repository
-
-git clone https://github.com/your-username/weather-app.git
-
-
-2️⃣ Open the project folder
-
-3️⃣ Open index.html in your browser
-✅ That’s it — no server, no setup.
-
 🔑 API Configuration
 
 This project uses a free weather API.
@@ -54,7 +42,7 @@ Replace the API key value
 
 Example:
 
-const API_KEY = "your_api_key_here";
+const API_KEY = "https://api.weatherapi.com/v1/forecast.xml?key=d5b47201da6d47d2b30235006250707&q=";
 
 📂 Project Structure
 weather-app/
@@ -63,11 +51,6 @@ weather-app/
 │── script.js
 │── README.md
 
-🚧 Possible Improvements
-
-🌙 Dark / Light mode toggle
-
-📍 Detect user location automatically
 
 ⏰ Hourly forecast
 
@@ -76,7 +59,7 @@ weather-app/
 👤 Author
 
 Omar Tharwat
-Computer Science Student
+FCAI Student
 Frontend Developer
 
 ⭐ Notes
